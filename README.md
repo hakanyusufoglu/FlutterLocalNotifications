@@ -13,7 +13,7 @@
   
 6. **```Future<List<PendingNotificationRequest>> showNotificationPlansFromQuery(string title, String body)```** method; Performs a notification search based on title and body.
 
-### Requirements
+### Requirements (pubspec.yaml)
 ```
 flutter_local_notifications: ^3.0.1+4
 timezone: ^0.5.9
